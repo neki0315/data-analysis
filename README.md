@@ -44,8 +44,8 @@ Insights into employee satisfaction and efficiency
 The dataset includes details such as:
 
 Employee ID, Name, Department
-Work hours, Tasks completed, Productivity score
-Attendance records, Engagement levels
+Work hours, Tasks completed, Productivity score,
+productivity rating
 
 📌 How to Use
 
