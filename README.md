@@ -49,7 +49,7 @@ Attendance records, Engagement levels
 
 📌 How to Use
 
-Open the Power BI file (.pbix).
+Open the PPT.
 
 Explore the interactive dashboard.
 
