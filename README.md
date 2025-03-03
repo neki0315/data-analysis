@@ -50,12 +50,21 @@ Attendance records, Engagement levels
 📌 How to Use
 
 Open the Power BI file (.pbix).
+
 Explore the interactive dashboard.
+
 Use filters to analyze different aspects of productivity.
+
 Gain insights and take data-driven actions.
+
 🚀 Future Enhancements
+
 Incorporating machine learning for predictive insights.
+
 Adding sentiment analysis from employee feedback.
+
 Integrating real-time data updates.
+
 📢 Contact
+
 For any queries or suggestions, feel free to reach out at nehith0315@gmail.com
